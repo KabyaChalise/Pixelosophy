@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pixelosophy</string>
+
+    <string name="spartan_info">To be, or not to be: that is the question.</string>
+    <string name="spartan_author">Hamlet</string>
+    <string name="spartan_date">(1637)</string>
+
+    <string name="barbarian_info">We have met the enemy, and they are ours.</string>
+    <string name="barbarian_author">Oliver Hazard Perry</string>
+    <string name="barbarian_date">(1813)</string>
+
+    <string name="samurai_info">The warrior who trusts his path doesn\'t need to prove the other is wrong.</string>
+    <string name="samurai_author">Paulo Coelho</string>
+    <string name="samurai_date">(1997)</string>
+</resources>
